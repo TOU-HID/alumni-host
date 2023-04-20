@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"category": "Blockchain developer"
+	},
+	{
+		"id": 2,
+		"category": "App developers"
+	},
+	{
+		"id": 3,
+		"category": "Financial or business analysts"
+	},
+	{
+		"id": 4,
+		"category": "Compliance expert"
+	},
+	{
+		"id": 4,
+		"category": "Cybersecurity analyst"
+	},
+	{
+		"id": 4,
+		"category": "Data scientist"
+	},
+	{
+		"id": 4,
+		"category": "Quantitative analyst"
+	},
+	{
+		"id": 4,
+		"category": "Insurance Technology"
+	},
+	{
+		"id": 4,
+		"category": "Personal Finance Management"
+	},
+	{
+		"id": 4,
+		"category": "Crowdfunding"
+	},
+	{
+		"id": 4,
+		"category": "Robot-based Advice and Stock Trading"
+	}
+]
